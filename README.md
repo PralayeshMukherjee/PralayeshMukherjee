@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,Java,Java(Core),Spring,Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://pralayeshportfolio.netlify.app/](https://pralayeshportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pralayeshportfolio.netlify.app/](https://pralayeshportfolio7.netlify.app/)
 
 - 📝 I regularly add DSA questions on [https://github.com/PralayeshMukherjee/LeetCode_DSA](https://github.com/PralayeshMukherjee/LeetCode_DSA)
 
