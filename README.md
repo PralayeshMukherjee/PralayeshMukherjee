@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pralayeshmukherjee" alt="pralayeshmukherjee" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Java,Java(Core),Spring,Spring Boot**
+- 🌱 I’m a **DSA** expart and make projects on **Spring Boot, MySQL, React.js, Spring Security, REST APIs**
 
-- 👨‍💻 All of my projects are available at [https://pralayeshportfolio.netlify.app/](https://pralayeshportfolio7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pralayeshportfolio7.netlify.app/](https://pralayeshportfolio7.netlify.app/)
 
-- 📝 I regularly add DSA questions on [https://github.com/PralayeshMukherjee/LeetCode_DSA](https://github.com/PralayeshMukherjee/LeetCode_DSA)
-
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 Ask me about **Data Structures and Algorithms and Java Development**
 
 - 📫 How to reach me **rajmukherjee2807@gmail.com**
 
