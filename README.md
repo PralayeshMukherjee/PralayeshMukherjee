@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **DSA** expart and make projects on **Spring Boot, MySQL, React.js, Spring Security, REST APIs**
 
-- 👨‍💻 All of my projects are available at [https://pralayeshportfolio7.netlify.app/](https://pralayeshportfolio7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pralayeshportfolio.vercel.app/](https://pralayeshportfolio.vercel.app/)
 
 - 💬 Ask me about **Data Structures and Algorithms and Java Development**
 
