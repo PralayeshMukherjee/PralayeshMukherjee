@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajmukherjee2807@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket**
+- ⚡ Fun fact **I love to play Cricket**
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
