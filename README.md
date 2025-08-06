@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pralayeshportfolio.vercel.app/](https://pralayeshportfolio.vercel.app/)
 
-- 💬 Ask me about **Data Structures and Algorithms and Java Development**
+- 💬 Ask me about **Data Structures & Algorithms and Full Stack Java Development**
 
 - 📫 How to reach me **rajmukherjee2807@gmail.com**
 
