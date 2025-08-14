@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pralayeshmukherjee" alt="pralayeshmukherjee" /></a> </p>
 
-- 🌱 I’m a **DSA** expart and make projects on **Spring Boot, MySQL, React.js, Spring Security, REST APIs**
+- 🌱 I’m a **DSA** expert and make projects on **Spring Boot, MySQL, React.js, Spring Security, REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://pralayeshportfolio.vercel.app/](https://pralayeshportfolio.vercel.app/)
 
