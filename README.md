@@ -42,8 +42,6 @@
   <div align=center>
     <table>
     <thead>
-    
-  
   ![Pralayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PralayeshMukherjee&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)  
   
   <th>
